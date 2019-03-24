@@ -19,7 +19,8 @@
         "curly": [
             true,
             "as-needed"
-        ]
+        ],
+        "ordered-imports": false
     },
     "rulesDirectory": []
 }

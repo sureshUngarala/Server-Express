@@ -1,0 +1,17 @@
+{
+    "name": "Test-Data",
+    "data": [
+        {
+            "key": "obj0",
+            "value": "vObj0"
+        },
+        {
+            "key": "obj1",
+            "value": "vObj1"
+        },
+        {
+            "key": "obj2",
+            "value": "vObj2"
+        }
+    ]
+}
